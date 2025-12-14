@@ -119,7 +119,7 @@ So the familiar idea of:
 
 ---
 
-## 2.4 The Real Problem (Key Teaching Moment)
+## 2.4 The Real Problem 
 
 Now present this scenario to the class:
 
