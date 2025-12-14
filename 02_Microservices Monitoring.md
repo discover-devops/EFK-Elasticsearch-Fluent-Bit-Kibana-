@@ -214,8 +214,7 @@ This naturally leads to:
 
 
 
+<img width="2848" height="1600" alt="image" src="https://github.com/user-attachments/assets/bb6259ce-721f-4470-8714-4a4172c83c8f" />
 
-
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d5c1b33d-3b60-4e07-883c-6d9bc7947e98" />
 
 
